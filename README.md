@@ -1,2 +1,2 @@
 # SmartCart-Clustering-Unsupervised-ML-
-This is the Project related to Smart cart clustering
+SmartCart is an unsupervised machine learning project designed to analyze customer shopping behavior and group customers into meaningful segments. By applying clustering techniques, the project identifies patterns in purchasing habits, spending behavior, and customer characteristics. These insights help businesses improve personalized recommendations, customer targeting, and marketing strategies. The project demonstrates the practical use of unsupervised learning for real-world retail analytics and customer intelligence.
